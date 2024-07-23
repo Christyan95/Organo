@@ -27,7 +27,7 @@ function App() {
     },
 
     {
-      nome: 'Data Sciense',
+      nome: 'Data Science',
       corPrimaria: '#A6D157',
       corSecundaria: '#F0F8E2',
     },
